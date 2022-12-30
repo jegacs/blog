@@ -7,7 +7,7 @@
     "url": "https://github.com/jackbravo/gatsby-starter-i18n-blog/issues"
   },
   "dependencies": {
-    "gatsby": "^2.0.19",
+    "gatsby": "^2.32.13",
     "gatsby-plugin-feed": "^2.0.8",
     "gatsby-plugin-google-analytics": "^2.0.5",
     "gatsby-plugin-manifest": "^2.0.5",
